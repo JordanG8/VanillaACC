@@ -2,7 +2,7 @@ name: VanillaACC
 author: JordanG8
 description: VanillaACC (or Vannilla Auto Crafting Chamber) is an addon to slimefun that adds an identical machine to the Auto Crafting Chamber but instead of making Slimefun items it makes vannila ones.
 main: me.jordang8.VannilaACC.VanillaACC
-website: https://github.com/TheBusyBiscuit/Slimefun4-Addon
+website: https://github.com/JordanG8/VanillaACC
 depend: [Slimefun]
 version: 1.0.0
 api-version: 1.14
